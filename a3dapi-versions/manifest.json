@@ -1,0 +1,320 @@
+{
+  "unique_dlls": 35,
+  "files": [
+    {
+      "version": "2.0.1.0",
+      "export_timestamp": 909176714,
+      "export_date_utc": "1998-10-23_21-05-14Z",
+      "size": 199680,
+      "sha256": "c47d6551a44dc9bb8a575f59c66d734dc8f7cd9214560c016387b8345cb80369",
+      "path": "2.0.1.0_1998-10-23_21-05-14Z/a3dapi.dll",
+      "checksum_path": "2.0.1.0_1998-10-23_21-05-14Z/c47d6551a44dc9bb8a575f59c66d734dc8f7cd9214560c016387b8345cb80369.sha256"
+    },
+    {
+      "version": "2.0.1.18",
+      "export_timestamp": 909100959,
+      "export_date_utc": "1998-10-23_00-02-39Z",
+      "size": 201728,
+      "sha256": "c55d4b6864a601c9a60ff360005cf0cdac2dce6470f04587cb7f4f9fe9b167ac",
+      "path": "2.0.1.18_1998-10-23_00-02-39Z/a3dapi.dll",
+      "checksum_path": "2.0.1.18_1998-10-23_00-02-39Z/c55d4b6864a601c9a60ff360005cf0cdac2dce6470f04587cb7f4f9fe9b167ac.sha256"
+    },
+    {
+      "version": "2.0.2.0",
+      "export_timestamp": 911358143,
+      "export_date_utc": "1998-11-18_03-02-23Z",
+      "size": 211456,
+      "sha256": "f05b2eeb851b174ef2b39c4728687915648ae33780a65cdf7f0c7ce99e6a67af",
+      "path": "2.0.2.0_1998-11-18_03-02-23Z/a3dapi.dll",
+      "checksum_path": "2.0.2.0_1998-11-18_03-02-23Z/f05b2eeb851b174ef2b39c4728687915648ae33780a65cdf7f0c7ce99e6a67af.sha256"
+    },
+    {
+      "version": "2.0.2.2",
+      "export_timestamp": 910204185,
+      "export_date_utc": "1998-11-04_18-29-45Z",
+      "size": 201216,
+      "sha256": "ca101adcea647aa7753dce6e736dfa1fc468ef8f1ab383be8dc0fc58f0fc4162",
+      "path": "2.0.2.2_1998-11-04_18-29-45Z/a3dapi.dll",
+      "checksum_path": "2.0.2.2_1998-11-04_18-29-45Z/ca101adcea647aa7753dce6e736dfa1fc468ef8f1ab383be8dc0fc58f0fc4162.sha256"
+    },
+    {
+      "version": "2.0.2.8",
+      "export_timestamp": 910913003,
+      "export_date_utc": "1998-11-12_23-23-23Z",
+      "size": 210944,
+      "sha256": "8d8cc7cff064dcde15a9ffcc66d9dd02664d9ecfa4d938642f5346f14bd3ca03",
+      "path": "2.0.2.8_1998-11-12_23-23-23Z/a3dapi.dll",
+      "checksum_path": "2.0.2.8_1998-11-12_23-23-23Z/8d8cc7cff064dcde15a9ffcc66d9dd02664d9ecfa4d938642f5346f14bd3ca03.sha256"
+    },
+    {
+      "version": "2.0.3.0",
+      "export_timestamp": 911860650,
+      "export_date_utc": "1998-11-23_22-37-30Z",
+      "size": 212480,
+      "sha256": "8198e945241bdb57e63d75eccff1f246cdc164eb6b1ede0bc5f28b5cc48d12b2",
+      "path": "2.0.3.0_1998-11-23_22-37-30Z/a3dapi.dll",
+      "checksum_path": "2.0.3.0_1998-11-23_22-37-30Z/8198e945241bdb57e63d75eccff1f246cdc164eb6b1ede0bc5f28b5cc48d12b2.sha256"
+    },
+    {
+      "version": "2.1.0.1",
+      "export_timestamp": 913141358,
+      "export_date_utc": "1998-12-08_18-22-38Z",
+      "size": 213504,
+      "sha256": "24d004c1d73bed5e93bba0a4d52a3f41c36e6870ef90c6289018b24e65515fc7",
+      "path": "2.1.0.1_1998-12-08_18-22-38Z/a3dapi.dll",
+      "checksum_path": "2.1.0.1_1998-12-08_18-22-38Z/24d004c1d73bed5e93bba0a4d52a3f41c36e6870ef90c6289018b24e65515fc7.sha256"
+    },
+    {
+      "version": "2.10.5.0",
+      "export_timestamp": 915649406,
+      "export_date_utc": "1999-01-06_19-03-26Z",
+      "size": 214528,
+      "sha256": "9e29f7fa83d653bb1d185bd1d0d71e2fa867fadd69c7d4bb9abd273afb05e123",
+      "path": "2.10.5.0_1999-01-06_19-03-26Z/a3dapi.dll",
+      "checksum_path": "2.10.5.0_1999-01-06_19-03-26Z/9e29f7fa83d653bb1d185bd1d0d71e2fa867fadd69c7d4bb9abd273afb05e123.sha256"
+    },
+    {
+      "version": "2.10.5.0",
+      "export_timestamp": 915649481,
+      "export_date_utc": "1999-01-06_19-04-41Z",
+      "size": 366592,
+      "sha256": "e9b17b64dbda833d75f70f62026e46b4d2109f5c81adeb95690091733220a0e9",
+      "path": "2.10.5.0_1999-01-06_19-04-41Z/a3dapi.dll",
+      "checksum_path": "2.10.5.0_1999-01-06_19-04-41Z/e9b17b64dbda833d75f70f62026e46b4d2109f5c81adeb95690091733220a0e9.sha256"
+    },
+    {
+      "version": "2.10.5.4",
+      "export_timestamp": 918588359,
+      "export_date_utc": "1999-02-09_19-25-59Z",
+      "size": 215040,
+      "sha256": "bc89d63d6e0ad478035abd9cca0e950917cb11f33a596271e0ca41d00b79d7ee",
+      "path": "2.10.5.4_1999-02-09_19-25-59Z/a3dapi.dll",
+      "checksum_path": "2.10.5.4_1999-02-09_19-25-59Z/bc89d63d6e0ad478035abd9cca0e950917cb11f33a596271e0ca41d00b79d7ee.sha256"
+    },
+    {
+      "version": "2.12.0.0",
+      "export_timestamp": 920904947,
+      "export_date_utc": "1999-03-08_14-55-47Z",
+      "size": 513536,
+      "sha256": "7ba062e527ff4d1fa78b1f444bffa39003b927ae062c053adc495e89c0cb1654",
+      "path": "2.12.0.0_1999-03-08_14-55-47Z/a3dapi.dll",
+      "checksum_path": "2.12.0.0_1999-03-08_14-55-47Z/7ba062e527ff4d1fa78b1f444bffa39003b927ae062c053adc495e89c0cb1654.sha256"
+    },
+    {
+      "version": "2.12.0.0",
+      "export_timestamp": 920905921,
+      "export_date_utc": "1999-03-08_15-12-01Z",
+      "size": 684032,
+      "sha256": "2d1fc50ffc6b74c8c983411535c70d66c27c6363fdc30d1f2dc50653bd832bb0",
+      "path": "2.12.0.0_1999-03-08_15-12-01Z/a3dapi.dll",
+      "checksum_path": "2.12.0.0_1999-03-08_15-12-01Z/2d1fc50ffc6b74c8c983411535c70d66c27c6363fdc30d1f2dc50653bd832bb0.sha256"
+    },
+    {
+      "version": "2.12.0.0",
+      "export_timestamp": 920906142,
+      "export_date_utc": "1999-03-08_15-15-42Z",
+      "size": 276992,
+      "sha256": "1f29cfea09c809292647a31f3132883377db49f1890df785ed03ed09730cad48",
+      "path": "2.12.0.0_1999-03-08_15-15-42Z/a3dapi.dll",
+      "checksum_path": "2.12.0.0_1999-03-08_15-15-42Z/1f29cfea09c809292647a31f3132883377db49f1890df785ed03ed09730cad48.sha256"
+    },
+    {
+      "version": "2.13.0.0",
+      "export_timestamp": 922242924,
+      "export_date_utc": "1999-03-24_02-35-24Z",
+      "size": 279552,
+      "sha256": "18a627464e029e140453036c76c6af41fa3c88e07d505297b86d098121fc4449",
+      "path": "2.13.0.0_1999-03-24_02-35-24Z/a3dapi.dll",
+      "checksum_path": "2.13.0.0_1999-03-24_02-35-24Z/18a627464e029e140453036c76c6af41fa3c88e07d505297b86d098121fc4449.sha256"
+    },
+    {
+      "version": "2.14.0.0",
+      "export_timestamp": 923094310,
+      "export_date_utc": "1999-04-02_23-05-10Z",
+      "size": 286720,
+      "sha256": "a7944aecef6715ba87782beb7ee4c5ff5b1aa3e170e90ea10af7dc95cdf7b58d",
+      "path": "2.14.0.0_1999-04-02_23-05-10Z/a3dapi.dll",
+      "checksum_path": "2.14.0.0_1999-04-02_23-05-10Z/a7944aecef6715ba87782beb7ee4c5ff5b1aa3e170e90ea10af7dc95cdf7b58d.sha256"
+    },
+    {
+      "version": "2.20.0.0",
+      "export_timestamp": 931468389,
+      "export_date_utc": "1999-07-08_21-13-09Z",
+      "size": 286720,
+      "sha256": "1debd16cdb99e7638adbf6123e794f62af78013c25bd1a33821fa8d406987d5d",
+      "path": "2.20.0.0_1999-07-08_21-13-09Z/a3dapi.dll",
+      "checksum_path": "2.20.0.0_1999-07-08_21-13-09Z/1debd16cdb99e7638adbf6123e794f62af78013c25bd1a33821fa8d406987d5d.sha256"
+    },
+    {
+      "version": "2.21.0.0",
+      "export_timestamp": 931998603,
+      "export_date_utc": "1999-07-15_00-30-03Z",
+      "size": 286720,
+      "sha256": "a3b4f5d0506019a01a8729b0ae6da831cad7ac174425ac3a4b73609370c921e0",
+      "path": "2.21.0.0_1999-07-15_00-30-03Z/a3dapi.dll",
+      "checksum_path": "2.21.0.0_1999-07-15_00-30-03Z/a3b4f5d0506019a01a8729b0ae6da831cad7ac174425ac3a4b73609370c921e0.sha256"
+    },
+    {
+      "version": "2.22.0.0",
+      "export_timestamp": 933118790,
+      "export_date_utc": "1999-07-27_23-39-50Z",
+      "size": 1052733,
+      "sha256": "6f796e85c107f573021017abf8015784697110feb1c079abe324ca0808790a7c",
+      "path": "2.22.0.0_1999-07-27_23-39-50Z/a3dapi.dll",
+      "checksum_path": "2.22.0.0_1999-07-27_23-39-50Z/6f796e85c107f573021017abf8015784697110feb1c079abe324ca0808790a7c.sha256"
+    },
+    {
+      "version": "2.22.0.0",
+      "export_timestamp": 933118991,
+      "export_date_utc": "1999-07-27_23-43-11Z",
+      "size": 286720,
+      "sha256": "bdef9bb0fd827360f733935628c7556c82f91fea42c4483f266abcbd1f2a5d0b",
+      "path": "2.22.0.0_1999-07-27_23-43-11Z/a3dapi.dll",
+      "checksum_path": "2.22.0.0_1999-07-27_23-43-11Z/bdef9bb0fd827360f733935628c7556c82f91fea42c4483f266abcbd1f2a5d0b.sha256"
+    },
+    {
+      "version": "2.24.0.0",
+      "export_timestamp": 937359177,
+      "export_date_utc": "1999-09-15_01-32-57Z",
+      "size": 290816,
+      "sha256": "97a6c0aa4f94bcb5a9ec7f1be025c5659650107f2c29f1f71635851de7023446",
+      "path": "2.24.0.0_1999-09-15_01-32-57Z/a3dapi.dll",
+      "checksum_path": "2.24.0.0_1999-09-15_01-32-57Z/97a6c0aa4f94bcb5a9ec7f1be025c5659650107f2c29f1f71635851de7023446.sha256"
+    },
+    {
+      "version": "2.25.0.0",
+      "export_timestamp": 937419878,
+      "export_date_utc": "1999-09-15_18-24-38Z",
+      "size": 290816,
+      "sha256": "cd2286fbff849a908ed236ac3bbfaf757af611eed214424cee972a454899f9b9",
+      "path": "2.25.0.0_1999-09-15_18-24-38Z/a3dapi.dll",
+      "checksum_path": "2.25.0.0_1999-09-15_18-24-38Z/cd2286fbff849a908ed236ac3bbfaf757af611eed214424cee972a454899f9b9.sha256"
+    },
+    {
+      "version": "3.0.0.0",
+      "export_timestamp": 941501926,
+      "export_date_utc": "1999-11-02_00-18-46Z",
+      "size": 401408,
+      "sha256": "f7390b1b706686aeb418ec1727e81cbd74e16444e7f1576da191e5aae5a4d6ae",
+      "path": "3.0.0.0_1999-11-02_00-18-46Z/a3dapi.dll",
+      "checksum_path": "3.0.0.0_1999-11-02_00-18-46Z/f7390b1b706686aeb418ec1727e81cbd74e16444e7f1576da191e5aae5a4d6ae.sha256"
+    },
+    {
+      "version": "3.0.0.484",
+      "export_timestamp": 943319411,
+      "export_date_utc": "1999-11-23_01-10-11Z",
+      "size": 462848,
+      "sha256": "a6b7b490120a9f3b3ded6cd889b425dd6968bf653106ad3438b48db65d4c91f1",
+      "path": "3.0.0.484_1999-11-23_01-10-11Z/a3dapi.dll",
+      "checksum_path": "3.0.0.484_1999-11-23_01-10-11Z/a6b7b490120a9f3b3ded6cd889b425dd6968bf653106ad3438b48db65d4c91f1.sha256"
+    },
+    {
+      "version": "3.2.672.0",
+      "export_timestamp": 949342932,
+      "export_date_utc": "2000-01-31_18-22-12Z",
+      "size": 466944,
+      "sha256": "ae447b2710d1233ac98fbffca3dc8952b3b0b7885df9b3ca6cf3fb726753c8b7",
+      "path": "3.2.672.0_2000-01-31_18-22-12Z/a3dapi.dll",
+      "checksum_path": "3.2.672.0_2000-01-31_18-22-12Z/ae447b2710d1233ac98fbffca3dc8952b3b0b7885df9b3ca6cf3fb726753c8b7.sha256"
+    },
+    {
+      "version": "3.2.674.0",
+      "export_timestamp": 949538053,
+      "export_date_utc": "2000-02-03_00-34-13Z",
+      "size": 462848,
+      "sha256": "0da3f7514dd6f35d2d596451d26f1f848d294eb889e6190a938bf8b54260a639",
+      "path": "3.2.674.0_2000-02-03_00-34-13Z/a3dapi_0da3f7514dd6.dll",
+      "checksum_path": "3.2.674.0_2000-02-03_00-34-13Z/0da3f7514dd6f35d2d596451d26f1f848d294eb889e6190a938bf8b54260a639.sha256"
+    },
+    {
+      "version": "3.2.674.0",
+      "export_timestamp": 949538053,
+      "export_date_utc": "2000-02-03_00-34-13Z",
+      "size": 462848,
+      "sha256": "2b3b75274a48e56841a3e6523aa975576bae2302300af3359e9428ad6ed84269",
+      "path": "3.2.674.0_2000-02-03_00-34-13Z/a3dapi_2b3b75274a48.dll",
+      "checksum_path": "3.2.674.0_2000-02-03_00-34-13Z/2b3b75274a48e56841a3e6523aa975576bae2302300af3359e9428ad6ed84269.sha256"
+    },
+    {
+      "version": "3.2.674.0",
+      "export_timestamp": 949538053,
+      "export_date_utc": "2000-02-03_00-34-13Z",
+      "size": 462848,
+      "sha256": "643c153e3d495f2b18d96b4ab2d151f116d72c24b856f42f9845eba8facde393",
+      "path": "3.2.674.0_2000-02-03_00-34-13Z/a3dapi_643c153e3d49.dll",
+      "checksum_path": "3.2.674.0_2000-02-03_00-34-13Z/643c153e3d495f2b18d96b4ab2d151f116d72c24b856f42f9845eba8facde393.sha256"
+    },
+    {
+      "version": "3.2.674.0",
+      "export_timestamp": 949538053,
+      "export_date_utc": "2000-02-03_00-34-13Z",
+      "size": 462848,
+      "sha256": "fadbd617f208e7f59fa20dcc4593a46107672297dfb39bdff9250c23250755e1",
+      "path": "3.2.674.0_2000-02-03_00-34-13Z/a3dapi_fadbd617f208.dll",
+      "checksum_path": "3.2.674.0_2000-02-03_00-34-13Z/fadbd617f208e7f59fa20dcc4593a46107672297dfb39bdff9250c23250755e1.sha256"
+    },
+    {
+      "version": "3.3.677.0",
+      "export_timestamp": 950313907,
+      "export_date_utc": "2000-02-12_00-05-07Z",
+      "size": 466944,
+      "sha256": "a8200c24f98b447638543b8cabd7e3c0df28c8e7d08c7a943ba3ee2521e5c651",
+      "path": "3.3.677.0_2000-02-12_00-05-07Z/a3dapi_a8200c24f98b.dll",
+      "checksum_path": "3.3.677.0_2000-02-12_00-05-07Z/a8200c24f98b447638543b8cabd7e3c0df28c8e7d08c7a943ba3ee2521e5c651.sha256"
+    },
+    {
+      "version": "3.3.677.0",
+      "export_timestamp": 950313907,
+      "export_date_utc": "2000-02-12_00-05-07Z",
+      "size": 466944,
+      "sha256": "f5e42bfa9dbe589554758e7fb9787c22ede3d97f035d9200efdc5f72eb98796f",
+      "path": "3.3.677.0_2000-02-12_00-05-07Z/a3dapi_f5e42bfa9dbe.dll",
+      "checksum_path": "3.3.677.0_2000-02-12_00-05-07Z/f5e42bfa9dbe589554758e7fb9787c22ede3d97f035d9200efdc5f72eb98796f.sha256"
+    },
+    {
+      "version": "3.3.677.0",
+      "export_timestamp": 950313907,
+      "export_date_utc": "2000-02-12_00-05-07Z",
+      "size": 188416,
+      "sha256": "fcffd4db134acdf77c6b72878f003bb6eba90a9f512c04599d71a97fac7fa3f8",
+      "path": "3.3.677.0_2000-02-12_00-05-07Z/a3dapi_fcffd4db134a.dll",
+      "checksum_path": "3.3.677.0_2000-02-12_00-05-07Z/fcffd4db134acdf77c6b72878f003bb6eba90a9f512c04599d71a97fac7fa3f8.sha256"
+    },
+    {
+      "version": "3.3.678.0",
+      "export_timestamp": 951523195,
+      "export_date_utc": "2000-02-25_23-59-55Z",
+      "size": 471040,
+      "sha256": "412ab67923da728920482dd787cf6c3d1509500742d298c13f0a78ba119f1b24",
+      "path": "3.3.678.0_2000-02-25_23-59-55Z/a3dapi.dll",
+      "checksum_path": "3.3.678.0_2000-02-25_23-59-55Z/412ab67923da728920482dd787cf6c3d1509500742d298c13f0a78ba119f1b24.sha256"
+    },
+    {
+      "version": "3.3.678.0",
+      "export_timestamp": 952119022,
+      "export_date_utc": "2000-03-03_21-30-22Z",
+      "size": 471040,
+      "sha256": "67d3e24a5beaf7772e346a42b45f5b4af2ecfbd5c1545c1788d43d78c02bee6e",
+      "path": "3.3.678.0_2000-03-03_21-30-22Z/a3dapi.dll",
+      "checksum_path": "3.3.678.0_2000-03-03_21-30-22Z/67d3e24a5beaf7772e346a42b45f5b4af2ecfbd5c1545c1788d43d78c02bee6e.sha256"
+    },
+    {
+      "version": "3.3.678.0",
+      "export_timestamp": 953169865,
+      "export_date_utc": "2000-03-16_01-24-25Z",
+      "size": 471040,
+      "sha256": "999310d0d2095d19b10766f2cb81cf83b95ce867a12e9b464b4b8a9b8b4f68bb",
+      "path": "3.3.678.0_2000-03-16_01-24-25Z/a3dapi.dll",
+      "checksum_path": "3.3.678.0_2000-03-16_01-24-25Z/999310d0d2095d19b10766f2cb81cf83b95ce867a12e9b464b4b8a9b8b4f68bb.sha256"
+    },
+    {
+      "version": "3.3.678.0",
+      "export_timestamp": 963208591,
+      "export_date_utc": "2000-07-10_05-56-31Z",
+      "size": 471040,
+      "sha256": "0760fe8d6e00939517f600de6d58ab3987d55d495d34e990dce4ce84011dabcf",
+      "path": "3.3.678.0_2000-07-10_05-56-31Z/a3dapi.dll",
+      "checksum_path": "3.3.678.0_2000-07-10_05-56-31Z/0760fe8d6e00939517f600de6d58ab3987d55d495d34e990dce4ce84011dabcf.sha256"
+    }
+  ]
+}

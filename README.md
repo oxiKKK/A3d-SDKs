@@ -3,6 +3,12 @@ The repository contains official Software Development Kits (SDKs) from Aureal 3D
 
 # What you can find here
 
+## All a3dapi.dll unique binaries
+
+The [`a3dapi-versions/`](a3dapi-versions/) folder holds 35 distinct builds of the A3D runtime DLL, spanning 2.0.1.0 (October 1998) through 3.3.678.0 (July 2000).
+
+Cheers to [discmaster.textfiles.com/](https://discmaster.textfiles.com/) for finding the files.
+
 ## SDK 1.2 (March 1998)
 
 - A3D 1.2 API Documentation
